@@ -1,0 +1,1123 @@
+<title>Playlist</title>
+<trackList>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TTT.smil/chunklist_b2160000_slen.m3u8</location>
+<title>TTT</title>
+<duration>36420</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>0</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CNC3.smil/playlist.m3u8</location>
+<title>CNC3</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>1</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TIC4.smil/chunklist_b1660000_slen.m3u8</location>
+<title>TIC4</title>
+<duration>35480</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>2</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TV6.smil/chunklist_b1660000_slen.m3u8</location>
+<title>TV6</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>3</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:GAYELLE.smil/chunklist_b1160000.m3u8</location>
+<title>GAYELLE</title>
+<duration>36420</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>4</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:PARLIAMENT.smil/playlist.m3u8</location>
+<title>PARLIAMENT</title>
+<duration>36420</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>5</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:WESN.smil/chunklist_b2500000.m3u8</location>
+<title>WESN</title>
+<duration>35970</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>6</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TTEN.smil/chunklist_b2160000.m3u8</location>
+<title>TTEN</title>
+<duration>35960</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>7</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:SYNERGY.smil/chunklist_b2160000_slen.m3u8</location>
+<title>SYNERGY</title>
+<image>file:///C:/Users/Serita/AppData/Roaming/vlc/art/arturl/e56bf650c8176ece43ca53dec38e26c3/art</image>
+<duration>35480</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>8</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MCTV.smil/playlist.m3u8</location>
+<title>MCTV</title>
+<duration>35960</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>9</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IBN.smil/chunklist_b1160000.m3u8</location>
+<title>IBN</title>
+<duration>36420</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>10</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TIN.smil/chunklist_b2160000.m3u8</location>
+<title>TIN</title>
+<image>file:///C:/Users/Serita/AppData/Roaming/vlc/art/arturl/e56bf650c8176ece43ca53dec38e26c3/art</image>
+<duration>35460</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>11</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:IETV.smil/chunklist_b1160000.m3u8</location>
+<title>IETV</title>
+<duration>36390</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>12</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:JAAGRITI.smil/playlist.m3u8</location>
+<title>JAAGRITI</title>
+<image>file:///C:/Users/Serita/AppData/Roaming/vlc/art/arturl/e56bf650c8176ece43ca53dec38e26c3/art</image>
+<duration>35970</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>13</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:SANKHYA.smil/chunklist_b1160000.m3u8</location>
+<title>SANKHYA</title>
+<image>file:///C:/Users/Serita/AppData/Roaming/vlc/art/arturl/e56bf650c8176ece43ca53dec38e26c3/art</image>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>14</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MUSIC.smil/chunklist_b2160000_slen.m3u8</location>
+<title>B4U_MUSIC</title>
+<image>file:///C:/Users/Serita/AppData/Roaming/vlc/art/arturl/e56bf650c8176ece43ca53dec38e26c3/art</image>
+<duration>35160</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>15</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:B4U_MOVIES.smil/chunklist_b2160000_slen.m3u8</location>
+<title>B4U_MOVIES</title>
+<image>file:///C:/Users/Serita/AppData/Roaming/vlc/art/arturl/e56bf650c8176ece43ca53dec38e26c3/art</image>
+<duration>36320</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>16</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ZEE_CINEMA.smil/playlist.m3u8</location>
+<title>ZEE_CINEMA</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>17</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ZEE_LIVING.smil/playlist.m3u8</location>
+<title>ZEE_LIVING</title>
+<duration>35960</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>18</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:ZEETV.smil/playlist.m3u8</location>
+<title>ZEETV</title>
+<duration>35960</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>19</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ZEE_BOLLYWOOD.smil/playlist.m3u8</location>
+<title>ZEE_BOLLYWOOD</title>
+<duration>36310</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>20</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ZEE_WORLD.smil/playlist.m3u8</location>
+<title>ZEE_WORLD</title>
+<duration>35960</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>21</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8</location>
+<title>TRINITY_TV</title>
+<duration>36420</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>22</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:ACTS25.smil/chunklist_b2660000.m3u8</location>
+<title>ACTS25</title>
+<duration>36410</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>23</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:3ABN.smil/chunklist_b1160000.m3u8</location>
+<title>3ABN</title>
+<duration>35960</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>24</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:HILLSONG.smil/playlist.m3u8</location>
+<title>HILLSONG</title>
+<duration>35470</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>25</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:JCTV.smil/chunklist_b2160000_slen.m3u8</location>
+<title>JCTV</title>
+<image>file:///C:/Users/Serita/AppData/Roaming/vlc/art/arturl/e56bf650c8176ece43ca53dec38e26c3/art</image>
+<duration>35960</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>26</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SME.smil/chunklist_b1160000.m3u8</location>
+<title>SME</title>
+<image>file:///C:/Users/Serita/AppData/Roaming/vlc/art/arturl/e56bf650c8176ece43ca53dec38e26c3/art</image>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>27</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:SOAC.smil/chunklist_b1160000_slen.m3u8</location>
+<title>SMILE</title>
+<image>file:///C:/Users/Serita/AppData/Roaming/vlc/art/arturl/e56bf650c8176ece43ca53dec38e26c3/art</image>
+<duration>36410</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>28</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8</location>
+<title>TBN</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>29</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ALJAZEERA.smil/chunklist_b1160000_slen.m3u8</location>
+<title>ALJAZEERA</title>
+<duration>35960</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>30</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BBC_WORLD.smil/playlist.m3u8</location>
+<title>BBC_WORLD</title>
+<duration>35480</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>31</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CGTN_NEWS.smil/playlist.m3u8</location>
+<title>CGTN_NEWS</title>
+<duration>35600</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>32</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX_NEWS.smil/playlist.m3u8</location>
+<title>FOX_NEWS</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>33</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:FRANCE_24.smil/playlist.m3u8</location>
+<title>FRANCE_24</title>
+<duration>36420</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>34</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MSNBC.smil/chunklist_b2000000.m3u8</location>
+<title>MSNBC</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>35</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:NHKWORLD.smil/playlist.m3u8</location>
+<title>NHKWORLD</title>
+<duration>35480</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>36</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BEIN_SPORTS.smil/playlist.m3u8</location>
+<title>BEIN_SPORTS</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>37</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS1.smil/playlist.m3u8</location>
+<title>FOXSPORTS1</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>38</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOXSPORTS2.smil/playlist.m3u8</location>
+<title>FOXSPORTS2</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>39</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:PRO_SPORTS.smil/playlist.m3u8</location>
+<title>PRO_SPORTS</title>
+<duration>36420</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>40</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/chunklist_b2000000.m3u8</location>
+<title>A&E</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>41</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ABC.smil/chunklist_b1160000_slen.m3u8</location>
+<title>ABC</title>
+<duration>35940</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>42</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:AMC.smil/playlist.m3u8</location>
+<title>AMC</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>43</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:AXN.smil/playlist.m3u8</location>
+<title>AXN</title>
+<image>file:///C:/Users/new%20user/AppData/Roaming/vlc/art/arturl/cea4610f55f4fec1b55a9cbd67554739/art</image>
+<duration>35480</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>44</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:BRAVO.smil/playlist.m3u8</location>
+<title>BRAVO</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>45</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BYU.smil/chunklist_b1160000.m3u8</location>
+<title>BYU</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>46</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:CBC.smil/playlist.m3u8</location>
+<title>CBC</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>47</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:CBS.smil/chunklist_b2500000.m3u8</location>
+<title>CBS</title>
+<duration>36410</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>48</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CITY_TV.smil/playlist.m3u8</location>
+<title>CITY_TV</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>49</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:CNBC.smil/chunklist_b1160000.m3u8</location>
+<title>CNBC</title>
+<duration>36310</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>50</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:COMEDY_CENTRAL.smil/chunklist_b2500000.m3u8</location>
+<title>COMEDY CENTRAL</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>51</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:COSMO.smil/playlist.m3u8</location>
+<title>COSMO</title>
+<duration>36000</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>52</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:COZI_TV.smil/playlist.m3u8</location>
+<title>COZI_TV</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>53</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:CTV.smil/playlist.m3u8</location>
+<title>CTV</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>54</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:E.smil/playlist.m3u8</location>
+<title>E</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>55</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/playlist.m3u8</location>
+<title>FOX</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>56</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FREEFORM.smil/playlist.m3u8</location>
+<title>FREEFORM</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>57</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3u8</location>
+<title>FUSE</title>
+<duration>35960</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>58</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FX.smil/playlist.m3u8</location>
+<title>FX</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>59</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:GRIT.smil/playlist.m3u8</location>
+<title>GRIT</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>60</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:GSN.smil/chunklist_b2200000_slen.m3u8</location>
+<title>GSN</title>
+<duration>35480</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>61</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://iptvcdn.airlinktt.co/ottorigin03/live/smil:HGTV.smil/chunklist_b1160000_slen.m3u8</location>
+<title>HGTV</title>
+<duration>35470</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>62</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:HLN.smil/playlist.m3u8</location>
+<title>HLN</title>
+<duration>36110</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>63</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:IFC.smil/playlist.m3u8</location>
+<title>IFC</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>64</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ME_TV.smil/playlist.m3u8</location>
+<title>ME_TV</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>65</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:MGM.smil/chunklist_b2160000.m3u8</location>
+<title>MGM</title>
+<image>file:///C:/Users/Serita/AppData/Roaming/vlc/art/arturl/e56bf650c8176ece43ca53dec38e26c3/art</image>
+<duration>35940</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>66</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:MTV.smil/chunklist_b2500000.m3u8</location>
+<title>MTV</title>
+<duration>36420</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>67</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:MY33.smil/playlist.m3u8</location>
+<title>MY33</title>
+<duration>35960</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>68</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:ESCAPE.smil/chunklist_b2160000_slen.m3u8</location>
+<title>MYSTERY</title>
+<image>file:///C:/Users/Serita/AppData/Roaming/vlc/art/arturl/e56bf650c8176ece43ca53dec38e26c3/art</image>
+<duration>36420</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>69</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1160000_slen.m3u8</location>
+<title>NBC</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>70</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:REEL.smil/playlist.m3u8</location>
+<title>REEL</title>
+<duration>35480</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>71</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:REVOLT.smil/playlist.m3u8</location>
+<title>REVOLT</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>72</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SYFY.smil/playlist.m3u8</location>
+<title>SYFY</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>73</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:TV_LAND.smil/playlist.m3u8</location>
+<title>TV_LAND</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>74</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TV_ONE.smil/playlist.m3u8</location>
+<title>TV_ONE</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>75</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:VH1.smil/playlist.m3u8</location>
+<title>VH1</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>76</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WARNER.smil/playlist.m3u8</location>
+<title>WARNER</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>77</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:WGN.smil/playlist.m3u8</location>
+<title>WGN</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>78</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:WPIX.smil/playlist.m3u8</location>
+<title>WPIX</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>79</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/playlist.m3u8</location>
+<title>ANIMAL_PLANET</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>80</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playlist.m3u8</location>
+<title>COOKING</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>81</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_CIVILIZATION.smil/chunklist_b1160000.m3u8</location>
+<title>DISC CIVIL</title>
+<duration>36000</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>82</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:DISCOVERY.smil/playlist.m3u8</location>
+<title>DISCOVERY</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>83</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:DISCOVERY_HOME_HEALTH.smil/playlist.m3u8</location>
+<title>DISCOVERY_HOME_HEALTH</title>
+<duration>36400</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>84</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smil/playlist.m3u8</location>
+<title>DISCOVERY_TURBO</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>85</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:DIY.smil/playlist.m3u8</location>
+<title>DIY</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>86</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/playlist.m3u8</location>
+<title>FOOD_NETWORK</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>87</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FYI.smil/playlist.m3u8</location>
+<title>FYI</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>88</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HISTORY.smil/chunklist_b2000000.m3u8</location>
+<title>HISTORY</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>89</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8</location>
+<title>INVESTIGATION_DISCOVERY</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>90</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:NASA_PUBLIC.smil/playlist.m3u8</location>
+<title>NASA_PUBLIC</title>
+<duration>36420</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>91</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NATGEO.smil/chunklist_b1500000.m3u8</location>
+<title>NAT GEO</title>
+<duration>35960</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>92</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:PBS.smil/playlist.m3u8</location>
+<title>PBS</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>93</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SCIENCE.smil/playlist.m3u8</location>
+<title>SCIENCE</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>94</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TLC.smil/playlist.m3u8</location>
+<title>TLC</title>
+<duration>36320</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>95</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TRAVEL_CHANNEL.smil/chunklist_b1160000_slen.m3u8</location>
+<title>TRAVEL CHANNEL</title>
+<duration>35480</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>96</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:BABY_TV.smil/playlist.m3u8</location>
+<title>BABY_TV</title>
+<duration>36420</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>97</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_KIDS.smil/playlist.m3u8</location>
+<title>DISCOVERY_KIDS</title>
+<duration>35480</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>98</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:DISNEY.smil/playlist.m3u8</location>
+<title>DISNEY</title>
+<duration>35960</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>99</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:DISNEYXD.smil/playlist.m3u8</location>
+<title>DISNEYXD</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>100</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NICK_JR.smil/playlist.m3u8</location>
+<title>NICK_JR</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>101</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NICK_TOONS.smil/playlist.m3u8</location>
+<title>NICK_TOONS</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>102</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:NICKELODEON.smil/playlist.m3u8</location>
+<title>NICKELODEON</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>103</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:PBS_KIDS.smil/playlist.m3u8</location>
+<title>PBS_KIDS</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>104</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8</location>
+<title>CENTRIC</title>
+<duration>36000</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>105</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:HALLMARK.smil/playlist.m3u8</location>
+<title>HALLMARK</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>106</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:HALLMARK_MM.smil/playlist.m3u8</location>
+<title>HALLMARK_MM</title>
+<duration>35950</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>107</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playlist.m3u8</location>
+<title>LIFETIME</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>108</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m3u8</location>
+<title>LMN</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>109</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:OWN.smil/playlist.m3u8</location>
+<title>OWN</title>
+<duration>35960</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>110</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:BOUNCE.smil/chunklist_b2160000_slen.m3u8</location>
+<title>BOUNCE</title>
+<duration>36410</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>111</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:FLIXX.smil/playlist.m3u8</location>
+<title>FLIXX</title>
+<duration>35480</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>112</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:PARAMOUNT.smil/playlist.m3u8</location>
+<title>PARAMOUNT</title>
+<image>file:///C:/Users/new%20user/AppData/Roaming/vlc/art/arturl/cea4610f55f4fec1b55a9cbd67554739/art</image>
+<duration>35960</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>113</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:REEL.smil/playlist.m3u8</location>
+<title>REEL</title>
+<duration>35480</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>114</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:SHOW.smil/playlist.m3u8</location>
+<title>SHOW</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>115</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SONY.smil/playlist.m3u8</location>
+<title>SONY</title>
+<duration>35480</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>116</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist.m3u8</location>
+<title>STARS</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>117</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:STUDIO_UNIVERSAL.smil/playlist.m3u8</location>
+<title>STUDIO_UNIVERSAL</title>
+<duration>35480</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>118</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:UNIMAS.smil/chunklist_b1000000.m3u8</location>
+<title>UNIMAS</title>
+<duration>36000</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>119</vlc:id>
+<vlc:option>network-caching=1000</vlc:option>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:UNIVERSAL.smil/playlist.m3u8</location>
+<title>UNIVERSAL</title>
+<duration>35480</duration>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>120</vlc:id>
+</extension>
+</track>
+<track>
+<location>http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:UNIVISION.smil/playlist.m3u8</location>
+<title>UNIVISION</title>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:id>121</vlc:id>
+</extension>
+</track>
+</trackList>
+<extension application="http://www.videolan.org/vlc/playlist/0">
+<vlc:item tid="0"/>
+<vlc:item tid="1"/>
+<vlc:item tid="2"/>
+<vlc:item tid="3"/>
+<vlc:item tid="4"/>
+<vlc:item tid="5"/>
+<vlc:item tid="6"/>
+<vlc:item tid="7"/>
+<vlc:item tid="8"/>
+<vlc:item tid="9"/>
+<vlc:item tid="10"/>
+<vlc:item tid="11"/>
+<vlc:item tid="12"/>
+<vlc:item tid="13"/>
+<vlc:item tid="14"/>
+<vlc:item tid="15"/>
+<vlc:item tid="16"/>
+<vlc:item tid="17"/>
+<vlc:item tid="18"/>
+<vlc:item tid="19"/>
+<vlc:item tid="20"/>
+<vlc:item tid="21"/>
+<vlc:item tid="22"/>
+<vlc:item tid="23"/>
+<vlc:item tid="24"/>
+<vlc:item tid="25"/>
+<vlc:item tid="26"/>
+<vlc:item tid="27"/>
+<vlc:item tid="28"/>
+<vlc:item tid="29"/>
+<vlc:item tid="30"/>
+<vlc:item tid="31"/>
+<vlc:item tid="32"/>
+<vlc:item tid="33"/>
+<vlc:item tid="34"/>
+<vlc:item tid="35"/>
+<vlc:item tid="36"/>
+<vlc:item tid="37"/>
+<vlc:item tid="38"/>
+<vlc:item tid="39"/>
+<vlc:item tid="40"/>
+<vlc:item tid="41"/>
+<vlc:item tid="42"/>
+<vlc:item tid="43"/>
+<vlc:item tid="44"/>
+<vlc:item tid="45"/>
+<vlc:item tid="46"/>
+<vlc:item tid="47"/>
+<vlc:item tid="48"/>
+<vlc:item tid="49"/>
+<vlc:item tid="50"/>
+<vlc:item tid="51"/>
+<vlc:item tid="52"/>
+<vlc:item tid="53"/>
+<vlc:item tid="54"/>
+<vlc:item tid="55"/>
+<vlc:item tid="56"/>
+<vlc:item tid="57"/>
+<vlc:item tid="58"/>
+<vlc:item tid="59"/>
+<vlc:item tid="60"/>
+<vlc:item tid="61"/>
+<vlc:item tid="62"/>
+<vlc:item tid="63"/>
+<vlc:item tid="64"/>
+<vlc:item tid="65"/>
+<vlc:item tid="66"/>
+<vlc:item tid="67"/>
+<vlc:item tid="68"/>
+<vlc:item tid="69"/>
+<vlc:item tid="70"/>
+<vlc:item tid="71"/>
+<vlc:item tid="72"/>
+<vlc:item tid="73"/>
+<vlc:item tid="74"/>
+<vlc:item tid="75"/>
+<vlc:item tid="76"/>
+<vlc:item tid="77"/>
+<vlc:item tid="78"/>
+<vlc:item tid="79"/>
+<vlc:item tid="80"/>
+<vlc:item tid="81"/>
+<vlc:item tid="82"/>
+<vlc:item tid="83"/>
+<vlc:item tid="84"/>
+<vlc:item tid="85"/>
+<vlc:item tid="86"/>
+<vlc:item tid="87"/>
+<vlc:item tid="88"/>
+<vlc:item tid="89"/>
+<vlc:item tid="90"/>
+<vlc:item tid="91"/>
+<vlc:item tid="92"/>
+<vlc:item tid="93"/>
+<vlc:item tid="94"/>
+<vlc:item tid="95"/>
+<vlc:item tid="96"/>
+<vlc:item tid="97"/>
+<vlc:item tid="98"/>
+<vlc:item tid="99"/>
+<vlc:item tid="100"/>
+<vlc:item tid="101"/>
+<vlc:item tid="102"/>
+<vlc:item tid="103"/>
+<vlc:item tid="104"/>
+<vlc:item tid="105"/>
+<vlc:item tid="106"/>
+<vlc:item tid="107"/>
+<vlc:item tid="108"/>
+<vlc:item tid="109"/>
+<vlc:item tid="110"/>
+<vlc:item tid="111"/>
+<vlc:item tid="112"/>
+<vlc:item tid="113"/>
+<vlc:item tid="114"/>
+<vlc:item tid="115"/>
+<vlc:item tid="116"/>
+<vlc:item tid="117"/>
+<vlc:item tid="118"/>
+<vlc:item tid="119"/>
+<vlc:item tid="120"/>
+<vlc:item tid="121"/>
+</extension>
+</playlist>
